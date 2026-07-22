@@ -2,21 +2,11 @@
 
 * [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
 * [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
-* [Android](#android)
-* [Flutter](#flutter)
 * [Golang](#golang)
-* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
     * [Spring](#spring)
-* [JavaScript](#javascript)
-    * [Node.js](#nodejs)
-    * [React.js](#reactjs)
-* [.NET](#net)
-* [PHP](#php)
-* [QA](#qa)
-* [Ruby](#ruby)
-* [Webpack](#webpack)
+* [Scala](#scala)
 
 
 ### Информационные технологии и безопасность
@@ -46,25 +36,9 @@
 * [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
 
 
-### Android
-
-* [Android Broadcast Podcast](https://soundcloud.com/android_broadcast) (Podcast)
-* [Android Dev](http://apptractor.ru/AndroidDev) (Podcast)
-
-
-### Flutter
-
-* [Flutter Dev Podcast](https://soundcloud.com/flutterdevpodcast) (Podcast)
-
-
 ### Golang
 
 * [GolangShow](https://golangshow.com) (Podcast)
-
-
-### Gulp
-
-* [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
 
 
 ### Haskell
@@ -83,59 +57,12 @@
 * [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
 
 
-### JavaScript
-
-* [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
-* [CSSSR](https://soundcloud.com/csssr) (Podcast)
-* [Devschacht](https://soundcloud.com/devschacht) (Podcast)
-* [Frontflip](http://frontflip.me) (Podcast)
-* [JavaScript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
-* [RadioJS](http://radiojs.ru) (Podcast)
-* [UnderJS podcast](https://underjs.ru) (Podcast)
-* [Webstandards](https://soundcloud.com/web-standards) (Podcast)
-
-
-#### Node.js
-
-* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
-
-
-#### React.js
-
-* [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
-* [Пятиминутка React](http://5minreact.ru) (Podcast)
-
-
-### .NET
-
-* [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
-* [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
-* [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
-
-
-### PHP
-
-* [Пятиминутка PHP](http://5minphp.ru) (Podcast)
-
-
 ### QA
 
 * [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
 * [QAGuild](https://automation-remarks.com/tags/QAGuild.html) (Podcast)
 
 
-### Ruby
-
-* [RubyNoName Podcast](http://rubynoname.ru) (Podcast)
-* [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин (Screencast)
-* [RWPod Podcast](http://rwpod.com) (Podcast)
-
-
 ### Scala
 
 * [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
-
-
-### Webpack
-
-* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
